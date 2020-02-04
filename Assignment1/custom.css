@@ -1,0 +1,25 @@
+.LIGHTGREEN {
+  background-color: #8EB3AE;
+}
+.BLUEGREY .nav-item {
+  color: #8083a8;
+}
+.BROWN .nav-link.active {
+  background: #4b2b23;
+  color: #ffffff;
+}
+.BROWN .nav-link:hover {
+  text-decoration: underline;
+}
+
+.jumbotron{
+    background-color: #3C645E !important;
+    text-align:center;
+}
+.jumbotron h1{
+font-weight: 100;
+}
+
+.jumbotron p{
+font-weight: 100;
+}
