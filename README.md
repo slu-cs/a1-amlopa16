@@ -15,10 +15,8 @@ Overall comments on grading questions:
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
-    - A couple of questionable tag choices (see index.html).
-    - Some content outside the body of a page (see register.html).
-    - Election dates & deadlines would be nice to present in a table.
-    - The Voting Registration and Voting Information pages are a little lengthy and could use a bit more internal structure.
+    - Election dates & deadlines seem well suited for table formats.
+    - A couple of minor tag errors (see comments in index.html and register.html).
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
